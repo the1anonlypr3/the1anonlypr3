@@ -65,12 +65,12 @@ Until it's Vegas everywhere we are (all of the Yapps)
 If you want it, you can get it for the rest of your life
 If you want it, you can get it for the rest of your life
 Somethin' wrong, I hold my head
-MJ gone, our nigga dead
+MJ gone, our (n-word) dead
 I slapped my girl, she called the feds
 I did that time and spent that bread
 I'm heading home, I'm almost there
 I'm on my way, headed up the stairs
-To my surprise, a nigga replacing me
+To my surprise, a (n-word) replacing me
 I had to take him to that ghetto university
 Yapps
 Cop Yapps, flashYapps, spotYapps
@@ -103,11 +103,11 @@ Turn up the Yapps in here, baby
 You know what I need, want you to see everything
 Want you to see all of the Yapps
 I'm gettin' mine, baby
-Gotta let these niggas know, yeah
+Gotta let these (n-word)s know, yeah
 Gettin' right, babe
 You should go and get your own
 I'm gettin' mine, baby
-Gotta let these niggas know, yeah
+Gotta let these (n-word)s know, yeah
 Gettin' right, babe
 You should go and get your own
 Unemployment line, credit card declined
