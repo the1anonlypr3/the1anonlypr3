@@ -21,13 +21,13 @@ i am [REDACTED], better known as _pr3_, and you should expect quite a vast range
 </--------------------------------------------------------------------------------------------------------------\>
 
 about me:
-    - needless to say i adore tech. (duhh...)
-    - i do everything you may see from a terrible HP laptop that's seen several Kali installs, and unfathomable bluescreens
-    - i love linux, but use windows (fed?)
-    - 'spose i'm somewhat of a hacker
-    - born in upsidedownland, still live there
-    - you can definitely find me in the Flipper OFW, MNTM, and TalkingSasquach's discords
-    - i'm constantly learning! meaning i'm okay at everything sorta, but i don't quite have a complete understanding of code, hardware, etc.
+    <br>- needless to say i adore tech. (duhh...)
+    <br>- i do everything you may see from a terrible HP laptop that's seen several Kali installs, and unfathomable bluescreens
+    <br>- i love linux, but use windows (fed?)
+    <br>- 'spose i'm somewhat of a hacker
+    <br>- born in upsidedownland, still live there
+    <br>- you can definitely find me in the Flipper OFW, MNTM, and TalkingSasquach's discords
+    <br>- i'm constantly learning! meaning i'm okay at everything sorta, but i don't quite have a complete understanding of code, hardware, etc.
     
 </--------------------------------------------------------------------------------------------------------------\>
 
