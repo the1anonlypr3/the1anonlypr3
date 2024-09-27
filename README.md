@@ -1,3 +1,5 @@
+<body>
+
 ██╗    ██╗███████╗██╗      ██████╗ ██████╗ ███╗   ███╗███████╗██╗
 ██║    ██║██╔════╝██║     ██╔════╝██╔═══██╗████╗ ████║██╔════╝██║
 ██║ █╗ ██║█████╗  ██║     ██║     ██║   ██║██╔████╔██║█████╗  ██║
@@ -134,3 +136,9 @@ _'add the lyrics from All of the Lights, but change every "light" with "yapp"'_
     - Entitate, 2024
 
 <img src="https://cdn.discordapp.com/emojis/1214569284458782760.gif?size=160&quality=lossless"/>
+
+</body>
+
+body {
+  width: 40px;
+}
