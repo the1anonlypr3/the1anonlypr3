@@ -137,4 +137,5 @@ _'add the lyrics from All of the Lights, but change every "light" with "yapp"'_
 
 <img src="https://cdn.discordapp.com/emojis/1214569284458782760.gif?size=160&quality=lossless"/>
 
-</body width="40px"> 
+</body> 
+<width="40px">
