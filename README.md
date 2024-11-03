@@ -16,6 +16,8 @@
 <br>\/\/\/
 <h1>My Contributions/Projects ‼️</h1>
  - added asset to MomentumFW "updating" screen <br>
+ - added asset to GhostESP flappy bird
+ - added asset(s) to flipper's flappy bird too!
 - <a href="https://github.com/the1anonlypr3/pr3s_anim_haven">My Flipper Anim Repo</a>
 <br>
 <br><i>more on the way!</i>
