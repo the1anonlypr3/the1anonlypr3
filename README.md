@@ -6,6 +6,8 @@
 <h3>novice animator, (terrible) hacker and tech addict. </h3>
 <br>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=the1anonlypr3&show_icons=true&theme=tokyonight)
+
 <h1>have a chat!</h1>
 <li>i'm most active on <a href="discord.gg">discord</a>! just add "pr3.". come find me in the absurd amount of tech servers i lurk in!</li>
 <br>
