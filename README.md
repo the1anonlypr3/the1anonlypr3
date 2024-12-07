@@ -25,6 +25,7 @@
  <li>added asset(s) to GhostESP and flipper zero flappy bird<br></li>
  <li><a href="https://github.com/the1anonlypr3/pr3s_anim_haven">my flipper animation repo!</a></li>
  <li>support/upcoming admin in the opensourcesdrlab discord!</li>
+ <li>added guides/pages to <a href="https://github.com/hackrfstuff/hackrfstuff.github.io">HackRF Docs by arouut!</a></li>
 <br>
 <br><i>+ more on the way!</i>
 <br>
