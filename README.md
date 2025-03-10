@@ -26,9 +26,8 @@
  <li>added asset to MomentumFW "updating" screen<br></li>
  <li>added asset(s) to GhostESP and flipper zero flappy bird<br></li>
  <li><a href="https://github.com/the1anonlypr3/pr3s_anim_haven">my flipper animation repo!</a></li>
- <li>support/upcoming admin in the opensourcesdrlab discord!</li>
- <li>added guides/pages to <a href="https://github.com/hackrfstuff/hackrfstuff.github.io">HackRF Docs by aroout!</a></li>
- <li>Added too many assets to <a href="https://github.com/jblanked/FlipWorld">FlipWorld</a> by <a href="https://github.com/jblanked">JBlanked</a>! <a href="https://lab.flipper.net/apps/flip_world">now on the official flipper app catalog!</a> :)</li>
+ <li>added too many assets to <a href="https://github.com/jblanked/FlipWorld">FlipWorld</a> by <a href="https://github.com/jblanked">JBlanked</a>! <a href="https://lab.flipper.net/apps/flip_world">now on the official flipper app catalog!</a> :)</li>
+ <li>guide on the <a href="https://flipper.wiki/tutorials/asset_creation/asset_creation_guide/">Unofficial Flipper Wiki!</a></li>
 <br>
 <br><i>+ more on the way!</i>
 <br>
