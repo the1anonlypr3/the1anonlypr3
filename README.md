@@ -20,7 +20,7 @@
 
 <h1>my contributions/projects!</h1>
  <li>see my <a href="https://github.com/the1anonlypr3.github.io">personal site</a> for that!</li>
- <li>some stuff that isn't included on there includes plenty of assets across <a href="https://momentum-fw.dev">momentumFW</a>, <a href="https://github.com/jaylikesbunda/Ghost_ESP">ghostESP</a> and <a href="https://github.com/jblanked/FlipWorld">flipworld</a>! among stickers for the <a href="https://wiredhatters.com">wired hatters</a>, a few art comp wins and other cool things!</li>
+ <li>some stuff that isn't included on there includes plenty of assets across <a href="https://momentum-fw.dev">momentumFW</a>, <a href="https://github.com/jaylikesbunda/Ghost_ESP">ghostESP</a> and <a href="https://github.com/jblanked/FlipWorld">flipworld</a>! among stickers for the <a href="https://wiredhatters.com">wired hatters</a>, a few art comp wins, <a href="https://flipper.wiki/tutorials/asset_creation/asset_creation_guide/">unofficial flipper zero docs</a> and other cool things!</li>
 <h3>+ more on the way!</h3>
 
 <br>
