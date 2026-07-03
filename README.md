@@ -6,5 +6,14 @@
  ░███ ░███ ░███░░░   ░███  ░███ ░███ ░███░░░ 
  ████ █████░░██████  █████ █████░░██████  ███
 ░░░░ ░░░░░  ░░░░░░  ░░░░░ ░░░░░  ░░░░░░  ░░░
-</pre>                                             
-i'm pr3, some aussie described as a horrendous ${\textsf{\color{blue}artist}}$, even worse ${\textsf{\color{blue}hacker}}$ and decent ${\textsf{\color{blue}ebike rider/builder}}$.
+ ________________________________
+/ im pr3, self-proclaimed        \
+| terrible artist and even worse |
+\ hacker                         /
+ --------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+</pre>
